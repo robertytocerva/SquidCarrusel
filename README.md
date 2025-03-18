@@ -1,3 +1,3 @@
-#SquidCarrusel
-Descripción pendiente
+# SquidCarrusel
+
 
