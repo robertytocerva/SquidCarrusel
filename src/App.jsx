@@ -56,3 +56,4 @@ const TeachableMachine = () => {
 
 export default TeachableMachine;
 // cometario de prueba
+//comentario de prueba do
